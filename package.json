@@ -1,0 +1,15 @@
+{
+  "name":"f8s",
+  "description": "A lot of frameworks",
+  "engines": {
+    "node": ">= 8.7.0"
+  },
+  "devDependencies": {
+    "lerna": "^2.4.0"
+  },
+  "dependencies": {
+    "express-generator": "^4.15.5"
+  },
+  "repository": "dev2geek/f8s",
+  "license": "MIT"
+}
